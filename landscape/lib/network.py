@@ -226,7 +226,7 @@ def get_active_device_info(
             filter_local,
             filter_vlan,
             filter_alias,
-            filter_default,
+#            filter_default,
         ),
         extended=extended,
     )
